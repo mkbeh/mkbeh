@@ -43,26 +43,26 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 
 ### Python
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=pyshella-toolkit&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=pydrommer&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=pyshella-toolkit&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/pyshella-toolkit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=pydrommer&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/pydrommer)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=rin-bitshares-arbitry-bot&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=aiobitcoin&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=rin-bitshares-arbitry-bot&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/rin-bitshares-arbitry-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=aiobitcoin&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/aiobitcoin)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=fastapi-admin-panel&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=fereda&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=fastapi-admin-panel&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/fastapi-admin-panel)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=fereda&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/fereda)
 
 ### Go
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xkafka&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xpg&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xclick&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xredis&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xjwt&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xkafka&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/xkafka)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xpg&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/xpg)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xclick&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/xclick)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xredis&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/xredis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xjwt&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/xjwt)
 
 ### Rust
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=rust-simple-chat&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=rust-simple-chat&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/rust-simple-chat)
 
 ## Tech
 
@@ -78,27 +78,13 @@ here is a shortlist of some of the more still popular ones you might recognize:
 <div align="center">
    <table>
       <tr>
-         <td>
-            <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
-         </td>
-         <td>	
-            <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
-         </td>
-         <td>
-            <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" title="Rust"/></code>
-         </td>
-         <td>
-            <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go"/></code>
-         </td>
-         <td>
-            <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
-         </td>
-         <td>
-            <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
-         </td>
-         <td>
-            <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes"/></code>
-         </td>
+         <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code></td>
+         <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code></td>
+         <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" title="Rust"/></code></td>
+         <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go"/></code></td>
+         <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code></td>
+         <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code></td>
+         <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes"/></code></td>
       </tr>
 	<tr>
 		<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code></td>
