@@ -2,8 +2,8 @@
 
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=mkbeh&color=blue&label=GitHub+Profile+Views)](https://github.com/mkbeh)
 [![GitStar Rank](https://img.shields.io/badge/GitStar%20Rank%20by%20Repo%20Stars-Top_0.01%25-blue?logo=github)](https://gitstar-ranking.com/mkbeh)
-[![GitRoll Language Breakdown](https://img.shields.io/badge/GitRoll-Language%20Breakdown-blue?logo=github)](https://gitroll.io/profile/u5eNfjd3L4KXzBVekMrxkLvCEmYt2/languages)
-[![GitRoll TechStacks Breakdown](https://img.shields.io/badge/GitRoll-Tech%20Stack%20Breakdown-blue?logo=github)](https://gitroll.io/profile/u5eNfjd3L4KXzBVekMrxkLvCEmYt2/stacks)
+[![GitRoll Language Breakdown](https://img.shields.io/badge/GitRoll-Language%20Breakdown-blue?logo=github)](https://gitroll.io/profile/uRcV0fmCwqzPf0JP486YZYGTNwMC3/languages)
+[![GitRoll TechStacks Breakdown](https://img.shields.io/badge/GitRoll-Tech%20Stack%20Breakdown-blue?logo=github)](https://gitroll.io/profile/uRcV0fmCwqzPf0JP486YZYGTNwMC3/stacks)
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="assets/img.gif">
