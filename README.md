@@ -35,34 +35,35 @@ This only includes my public open source repos:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkbeh&show_icons=true&theme=synthwave)](https://github.com/mkbeh/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkbeh&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28&hide=html,css)
+
 ## Core Public Repos
 
 GitHub's limit of 6 pinned repos is far too low - these are what I consider my core open source public repos:
 
 <!-- REPOS_START -->
 
-### Python
+### Libraries
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=pyshella-toolkit&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/pyshella-toolkit)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=pydrommer&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/pydrommer)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=rin-bitshares-arbitry-bot&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/rin-bitshares-arbitry-bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=aiobitcoin&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/aiobitcoin)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=fastapi-admin-panel&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/fastapi-admin-panel)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=fereda&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/fereda)
-
-### Go
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xkafka&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/xkafka)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xpg&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/xpg)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xclick&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/xclick)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xredis&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/xredis)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xjwt&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/xjwt)
 
-### Rust
+### Tools
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=pyshella-toolkit&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/pyshella-toolkit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=pydrommer&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/pydrommer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=rin-bitshares-arbitry-bot&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/rin-bitshares-arbitry-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=fereda&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/fereda)
+
+### Samples
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=fastapi-admin-panel&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/fastapi-admin-panel)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=rust-simple-chat&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/rust-simple-chat)
+
 
 ## Tech
 
