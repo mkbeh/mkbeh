@@ -35,7 +35,7 @@ This only includes my public open source repos:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkbeh&show_icons=true&theme=synthwave)](https://github.com/mkbeh/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkbeh&layout=compact&theme=synthwave&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkbeh&layout=compact&theme=synthwave&hide=html,css&size_weight=0.5&count_weight=0.5)
 
 ## Core Public Repos
 
