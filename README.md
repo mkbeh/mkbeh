@@ -45,24 +45,24 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 
 ### ⚒ Libraries
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=aiobitcoin&theme=midnight-purple&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/aiobitcoin)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xkafka&theme=midnight-purple&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/xkafka)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xpg&theme=midnight-purple&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/xpg)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xclick&theme=midnight-purple&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/xclick)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xredis&theme=midnight-purple&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/xredis)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xjwt&theme=midnight-purple&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/xjwt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=aiobitcoin&theme=aura&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/aiobitcoin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xkafka&theme=aura&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/xkafka)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xpg&theme=aura&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/xpg)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xclick&theme=aura&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/xclick)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xredis&theme=aura&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/xredis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xjwt&theme=aura&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/xjwt)
 
 ### 🛠 Tools
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=pyshella-toolkit&theme=midnight-purple&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/pyshella-toolkit)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=pydrommer&theme=midnight-purple&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/pydrommer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=rin-bitshares-arbitry-bot&theme=midnight-purple&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/rin-bitshares-arbitry-bot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=fereda&theme=midnight-purple&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/fereda)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=pyshella-toolkit&theme=aura&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/pyshella-toolkit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=pydrommer&theme=aura&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/pydrommer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=rin-bitshares-arbitry-bot&theme=aura&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/rin-bitshares-arbitry-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=fereda&theme=aura&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/fereda)
 
 ### ⛏ Samples
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=fastapi-admin-panel&theme=midnight-purple&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/fastapi-admin-panel)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=rust-simple-chat&theme=midnight-purple&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/rust-simple-chat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=fastapi-admin-panel&theme=aura&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/fastapi-admin-panel)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=rust-simple-chat&theme=aura&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/rust-simple-chat)
 
 
 ## Tech
