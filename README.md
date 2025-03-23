@@ -43,7 +43,7 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 
 <!-- REPOS_START -->
 
-### Libraries
+### ⚒ Libraries
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=aiobitcoin&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/aiobitcoin)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xkafka&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/xkafka)
@@ -52,14 +52,14 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xredis&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/xredis)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xjwt&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/xjwt)
 
-### Tools
+### 🛠 Tools
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=pyshella-toolkit&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/pyshella-toolkit)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=pydrommer&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/pydrommer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=rin-bitshares-arbitry-bot&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/rin-bitshares-arbitry-bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=fereda&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/fereda)
 
-### Samples
+### ⛏ Samples
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=fastapi-admin-panel&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/fastapi-admin-panel)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=rust-simple-chat&theme=ambient_gradient&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/rust-simple-chat)
