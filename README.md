@@ -46,6 +46,7 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 ### ⚒ Libraries
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=aiobitcoin&theme=vision-friendly-dark&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/aiobitcoin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=caslex&theme=vision-friendly-dark&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/caslex)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xkafka&theme=vision-friendly-dark&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/xkafka)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xpg&theme=vision-friendly-dark&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/xpg)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xclick&theme=vision-friendly-dark&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/xclick)
