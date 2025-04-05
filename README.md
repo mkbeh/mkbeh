@@ -43,7 +43,7 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 
 <!-- REPOS_START -->
 
-### ⚒ Libraries
+### 📚 Libraries
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=aiobitcoin&theme=vision-friendly-dark&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/aiobitcoin)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=caslex&theme=vision-friendly-dark&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/caslex)
