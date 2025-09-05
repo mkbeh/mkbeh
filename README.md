@@ -46,7 +46,6 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 ### 📚 Libraries
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=aiobitcoin&theme=vision-friendly-dark&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/aiobitcoin)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=caslex&theme=vision-friendly-dark&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/caslex)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xkafka&theme=vision-friendly-dark&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/xkafka)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xpg&theme=vision-friendly-dark&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/xpg)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=xclick&theme=vision-friendly-dark&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/xclick)
@@ -59,6 +58,8 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=pydrommer&theme=vision-friendly-dark&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/pydrommer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=rin-bitshares-arbitry-bot&theme=vision-friendly-dark&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/rin-bitshares-arbitry-bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=fereda&theme=vision-friendly-dark&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/fereda)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=caslex&theme=vision-friendly-dark&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/caslex)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkbeh&repo=arb-bot-rs&theme=vision-friendly-dark&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/arb-bot-rs)
 
 ### ⛏ Samples
 
