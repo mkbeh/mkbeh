@@ -11,20 +11,20 @@
 
 ## About me
 
-I enjoy programming and learning new things about Linux and information security.
+I am a Software Engineer focused on building high-load systems, integrating AI solutions, and securing infrastructure.
 
 ⭕️ Work
 
-- 🖥️ highload systems
+- 🖥️ High-load systems
 - 🤖 AI integration
-- 🧰 cybersecurity
+- 🧰 Cybersecurity & Linux
 
-⭕️ Non-work
+⭕️ Interests
 
-- 💢 anime, manga
-- 🏂 snowboarding
-- 📚 books
-- 🌿 gardening
+- 💢 Anime & manga
+- 🏂 Snowboarding
+- 📚 Books
+- 🌿 Gardening
 
 ## Public Open Source Stats
 
