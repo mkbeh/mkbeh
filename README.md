@@ -11,15 +11,15 @@
 
 ## About me
 
-I just like to program and learn something new related to programming, Linux and information security.
+I enjoy programming and learning new things about Linux and information security.
 
-🕵🏼‍♂️ **Interests:**
+⭕️ Work
 
 - 🖥️ highload systems
-- 📊 analytics
-- 🧰 tools for pentest
+- 🤖 AI integration
+- 🧰 cybersecurity
 
-🕵🏼‍♂️ **Non-work interests:**
+⭕️ Non-work
 
 - 💢 anime, manga
 - 🏂 snowboarding
@@ -65,7 +65,6 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 
 [![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=fastapi-admin-panel&theme=vision-friendly-dark&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/fastapi-admin-panel)
 [![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=rust-simple-chat&theme=vision-friendly-dark&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/rust-simple-chat)
-
 
 ## Tech
 
