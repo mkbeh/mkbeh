@@ -26,11 +26,11 @@ I am a Software Engineer focused on building high-load systems, integrating AI s
 
 ▸ [ **𝐑&𝐃** ]
 
-🖥️ **High-Load & Distributed Systems** — Designing fault-tolerant distributed systems and scalable backend architectures.
+> 🖥️ **High-Load & Distributed Systems** — Designing fault-tolerant distributed systems and scalable backend architectures.
 
-🤖 **AI Integration** — Integrating LLMs into backend systems, building AI agents, and optimizing RAG pipelines.
+> 🤖 **AI Integration** — Integrating LLMs into backend systems, building AI agents, and optimizing RAG pipelines.
 
-🧰 **Cybersecurity & Linux** — Infrastructure security, vulnerability research, and custom networking tools.
+> 🧰 **Cybersecurity & Linux** — Infrastructure security, vulnerability research, and custom networking tools.
 
 ▸ [ **𝐁𝐞𝐲𝐨𝐧𝐝 𝐓𝐞𝐜𝐡** ]
 
