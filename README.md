@@ -15,6 +15,21 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/mkbeh">
+    <img src="https://komarev.com/ghpvc/?username=mkbeh&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://gitstar-ranking.com/mkbeh">
+    <img src="https://img.shields.io/badge/GITSTAR-TOP%200.01%25-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitStar Rank" />
+  </a>
+  <a href="https://gitroll.io/profile/uRcV0fmCwqzPf0JP486YZYGTNwMC3/languages">
+    <img src="https://img.shields.io/badge/LANGUAGES-BREAKDOWN-00A6FB?style=for-the-badge&logo=codersrank&logoColor=white&labelColor=0D1117" alt="GitRoll Languages" />
+  </a>
+  <a href="https://gitroll.io/profile/uRcV0fmCwqzPf0JP486YZYGTNwMC3/stacks">
+    <img src="https://img.shields.io/badge/TECH%20STACK-BREAKDOWN-00A6FB?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0D1117" alt="GitRoll Tech Stack" />
+  </a>
+</p>
+
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="assets/img.gif">
 </div>
