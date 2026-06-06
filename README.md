@@ -17,7 +17,7 @@
 
 
 <div align="center">
-    <img hight="300" width="700" alt="GIF" align="center" src="assets/banner.gif">
+    <img hight="300" alt="GIF" align="center" src="assets/banner.gif">
 </div>
 
 ## About me
