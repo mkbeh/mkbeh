@@ -84,7 +84,7 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 [![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=caslex&theme=vision-friendly-dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/caslex)
 [![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=arb-bot-rs&theme=vision-friendly-dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/arb-bot-rs)
 
-### 🧪 Samples
+### 💡 Samples
 
 [![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=fastapi-admin-panel&theme=vision-friendly-dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/fastapi-admin-panel)
 [![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=rust-simple-chat&theme=vision-friendly-dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/rust-simple-chat)
