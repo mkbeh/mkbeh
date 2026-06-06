@@ -1,9 +1,19 @@
-# Mkbeh Github
+# Hi, I'm Mkbeh
 
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=mkbeh&color=blue&label=GitHub+Profile+Views)](https://github.com/mkbeh)
-[![GitStar Rank](https://img.shields.io/badge/GitStar%20Rank%20by%20Repo%20Stars-Top_0.01%25-blue?logo=github)](https://gitstar-ranking.com/mkbeh)
-[![GitRoll Language Breakdown](https://img.shields.io/badge/GitRoll-Language%20Breakdown-blue?logo=github)](https://gitroll.io/profile/uRcV0fmCwqzPf0JP486YZYGTNwMC3/languages)
-[![GitRoll TechStacks Breakdown](https://img.shields.io/badge/GitRoll-Tech%20Stack%20Breakdown-blue?logo=github)](https://gitroll.io/profile/uRcV0fmCwqzPf0JP486YZYGTNwMC3/stacks)
+<p align="center">
+  <a href="https://github.com/mkbeh">
+    <img src="https://komarev.com/ghpvc/?username=mkbeh&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://gitstar-ranking.com/mkbeh">
+    <img src="https://img.shields.io/badge/GITSTAR-TOP%200.01%25-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitStar Rank" />
+  </a>
+  <a href="https://gitroll.io/profile/uRcV0fmCwqzPf0JP486YZYGTNwMC3/languages">
+    <img src="https://img.shields.io/badge/LANGUAGES-BREAKDOWN-0077B6?style=for-the-badge&logo=codersrank&logoColor=white&labelColor=0D1117" alt="GitRoll Languages" />
+  </a>
+  <a href="https://gitroll.io/profile/uRcV0fmCwqzPf0JP486YZYGTNwMC3/stacks">
+    <img src="https://img.shields.io/badge/TECH%20STACK-BREAKDOWN-0077B6?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0D1117" alt="GitRoll Tech Stack" />
+  </a>
+</p>
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="assets/img.gif">
@@ -35,6 +45,14 @@ This only includes my public open source repos:
 
 [![Anurag's GitHub stats](https://github-readme-stats-peach-six-32.vercel.app/api?username=mkbeh&show_icons=true&theme=midnight-purple)](https://github.com/mkbeh/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats-peach-six-32.vercel.app/api?username=mkbeh&show_icons=true&theme=github_dark)](https://github.com/mkbeh/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats-peach-six-32.vercel.app/api?username=mkbeh&show_icons=true&theme=blue-green)](https://github.com/mkbeh/github-readme-stats)
+
+![Top Langs](https://github-readme-stats-peach-six-32.vercel.app/api/top-langs/?username=mkbeh&layout=compact&theme=github_dark&hide=html,css,makefile,purebasic,mako,plpgsql,dockerfile&size_weight=0.5&count_weight=0.5)
+
+![Top Langs](https://github-readme-stats-peach-six-32.vercel.app/api/top-langs/?username=mkbeh&layout=compact&theme=chartreuse-dark&hide=html,css,makefile,purebasic,mako,plpgsql,dockerfile&size_weight=0.5&count_weight=0.5)
+
 ![Top Langs](https://github-readme-stats-peach-six-32.vercel.app/api/top-langs/?username=mkbeh&layout=compact&theme=midnight-purple&hide=html,css,makefile,purebasic,mako,plpgsql,dockerfile&size_weight=0.5&count_weight=0.5)
 
 ## Core Public Repos
@@ -44,6 +62,10 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 <!-- REPOS_START -->
 
 ### 📚 Libraries
+
+[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=aiobitcoin&theme=blue-green&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/aiobitcoin)
+
+[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=aiobitcoin&theme=github_dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/aiobitcoin)
 
 [![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=aiobitcoin&theme=vision-friendly-dark&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/aiobitcoin)
 [![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=xkafka&theme=vision-friendly-dark&description_lines_count=3&show_owner=true)](https://github.com/mkbeh/xkafka)
