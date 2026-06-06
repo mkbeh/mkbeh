@@ -17,7 +17,7 @@
 
 
 <div align="center">
-    <img hight="300" alt="GIF" align="center" src="assets/banner.gif">
+    <img hight="300" alt="GIF" align="center" src="https://github.com/user-attachments/assets/992e8110-2603-421f-8b98-fd5b3e736553">
 </div>
 
 ## About me
