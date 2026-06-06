@@ -48,11 +48,11 @@ This only includes my public open source repos:
 
 [![Anurag's GitHub stats](https://github-readme-stats-peach-six-32.vercel.app/api?username=mkbeh&show_icons=true&theme=github_dark)](https://github.com/mkbeh/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats-peach-six-32.vercel.app/api?username=mkbeh&show_icons=true&theme=blue-green)](https://github.com/mkbeh/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-peach-six-32.vercel.app/api?username=mkbeh&show_icons=true&theme=holi)](https://github.com/mkbeh/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats-peach-six-32.vercel.app/api/top-langs/?username=mkbeh&layout=compact&theme=github_dark&hide=html,css,makefile,purebasic,mako,plpgsql,dockerfile&size_weight=0.5&count_weight=0.5)
 
-![Top Langs](https://github-readme-stats-peach-six-32.vercel.app/api/top-langs/?username=mkbeh&layout=compact&theme=chartreuse-dark&hide=html,css,makefile,purebasic,mako,plpgsql,dockerfile&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats-peach-six-32.vercel.app/api/top-langs/?username=mkbeh&layout=compact&theme=holi&hide=html,css,makefile,purebasic,mako,plpgsql,dockerfile&size_weight=0.5&count_weight=0.5)
 
 ![Top Langs](https://github-readme-stats-peach-six-32.vercel.app/api/top-langs/?username=mkbeh&layout=compact&theme=midnight-purple&hide=html,css,makefile,purebasic,mako,plpgsql,dockerfile&size_weight=0.5&count_weight=0.5)
 
@@ -64,7 +64,7 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 
 ### 🧩 Libraries
 
-[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=aiobitcoin&theme=blue-green&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/aiobitcoin)
+[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=aiobitcoin&theme=holi&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/aiobitcoin)
 
 [![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=aiobitcoin&theme=github_dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/aiobitcoin)
 
