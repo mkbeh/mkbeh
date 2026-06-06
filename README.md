@@ -24,18 +24,18 @@
 
 I am a Software Engineer focused on building high-load systems, integrating AI solutions, and securing infrastructure.
 
-⭕️ Work
+▸ [ **𝐑&𝐃** ]
 
-- 🖥️ High-load systems
-- 🤖 AI integration
-- 🧰 Cybersecurity & Linux
+🖥️ **High-Load & Distributed Systems** — Designing fault-tolerant distributed systems and scalable backend architectures.
 
-⭕️ Interests
+🤖 **AI Integration** — Integrating LLMs into backend systems, building AI agents, and optimizing RAG pipelines.
 
-- 💢 Anime & manga
-- 🏂 Snowboarding
-- 📚 Books
-- 🌿 Gardening
+🧰 **Cybersecurity & Linux** — Infrastructure security, vulnerability research, and custom networking tools.
+
+▸ [ **𝐁𝐞𝐲𝐨𝐧𝐝 𝐓𝐞𝐜𝐡** ]
+
+<kbd>💢 Anime & manga</kbd> · <kbd>🏂 Snowboarding</kbd> · <kbd>📚 Books</kbd> · <kbd>🌿 Gardening</kbd>
+
 
 ## Public Open Source Stats
 
