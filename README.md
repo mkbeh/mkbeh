@@ -44,17 +44,9 @@ commits went.
 
 This only includes my public open source repos:
 
-[![Anurag's GitHub stats](https://github-readme-stats-peach-six-32.vercel.app/api?username=mkbeh&show_icons=true&theme=midnight-purple)](https://github.com/mkbeh/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats-peach-six-32.vercel.app/api?username=mkbeh&show_icons=true&theme=github_dark)](https://github.com/mkbeh/github-readme-stats)
-
 [![Anurag's GitHub stats](https://github-readme-stats-peach-six-32.vercel.app/api?username=mkbeh&show_icons=true&theme=holi)](https://github.com/mkbeh/github-readme-stats)
 
-![Top Langs](https://github-readme-stats-peach-six-32.vercel.app/api/top-langs/?username=mkbeh&layout=compact&theme=github_dark&hide=html,css,makefile,purebasic,mako,plpgsql,dockerfile&size_weight=0.5&count_weight=0.5)
-
 ![Top Langs](https://github-readme-stats-peach-six-32.vercel.app/api/top-langs/?username=mkbeh&layout=compact&theme=holi&hide=html,css,makefile,purebasic,mako,plpgsql,dockerfile&size_weight=0.5&count_weight=0.5)
-
-![Top Langs](https://github-readme-stats-peach-six-32.vercel.app/api/top-langs/?username=mkbeh&layout=compact&theme=midnight-purple&hide=html,css,makefile,purebasic,mako,plpgsql,dockerfile&size_weight=0.5&count_weight=0.5)
 
 ## Core Public Repos
 
@@ -65,29 +57,25 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 ### 🧩 Libraries
 
 [![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=aiobitcoin&theme=holi&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/aiobitcoin)
-
-[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=aiobitcoin&theme=github_dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/aiobitcoin)
-
-[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=aiobitcoin&theme=vision-friendly-dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/aiobitcoin)
-[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=xkafka&theme=vision-friendly-dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/xkafka)
-[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=xpg&theme=vision-friendly-dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/xpg)
-[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=xclick&theme=vision-friendly-dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/xclick)
-[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=xredis&theme=vision-friendly-dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/xredis)
-[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=xjwt&theme=vision-friendly-dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/xjwt)
+[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=xkafka&theme=holi&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/xkafka)
+[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=xpg&theme=holi&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/xpg)
+[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=xclick&theme=holi&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/xclick)
+[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=xredis&theme=holi&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/xredis)
+[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=xjwt&theme=holi&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/xjwt)
 
 ### ⚙️ Tools
 
-[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=pyshella-toolkit&theme=vision-friendly-dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/pyshella-toolkit)
-[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=pydrommer&theme=vision-friendly-dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/pydrommer)
-[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=rin-bitshares-arbitry-bot&theme=vision-friendly-dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/rin-bitshares-arbitry-bot)
-[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=fereda&theme=vision-friendly-dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/fereda)
-[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=caslex&theme=vision-friendly-dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/caslex)
-[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=arb-bot-rs&theme=vision-friendly-dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/arb-bot-rs)
+[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=pyshella-toolkit&theme=holi&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/pyshella-toolkit)
+[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=pydrommer&theme=holi&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/pydrommer)
+[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=rin-bitshares-arbitry-bot&theme=holi&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/rin-bitshares-arbitry-bot)
+[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=fereda&theme=holi&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/fereda)
+[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=caslex&theme=holi&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/caslex)
+[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=arb-bot-rs&theme=holi&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/arb-bot-rs)
 
 ### 💡 Samples
 
-[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=fastapi-admin-panel&theme=vision-friendly-dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/fastapi-admin-panel)
-[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=rust-simple-chat&theme=vision-friendly-dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/rust-simple-chat)
+[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=fastapi-admin-panel&theme=holi&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/fastapi-admin-panel)
+[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=rust-simple-chat&theme=holi&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/rust-simple-chat)
 
 ## Tech
 
