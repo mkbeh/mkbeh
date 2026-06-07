@@ -68,7 +68,6 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 [![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=pyshella-toolkit&theme=github_dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/pyshella-toolkit)
 [![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=pydrommer&theme=github_dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/pydrommer)
 [![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=rin-bitshares-arbitry-bot&theme=github_dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/rin-bitshares-arbitry-bot)
-[![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=fereda&theme=github_dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/fereda)
 [![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=caslex&theme=github_dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/caslex)
 [![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=arb-bot-rs&theme=github_dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/arb-bot-rs)
 
