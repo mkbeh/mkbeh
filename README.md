@@ -26,7 +26,8 @@ I am a Software Engineer focused on building high-load systems, integrating AI s
 
 ▸ [ **𝐑&𝐃** ]
 
-🖥️ **High-Load & Distributed Systems** — Designing fault-tolerant distributed systems and scalable backend architectures.
+🖥️ **High-Load & Distributed Systems** — Designing fault-tolerant distributed systems and scalable backend
+architectures.
 
 🤖 **AI Integration** — Integrating LLMs into backend systems, building AI agents, and optimizing RAG pipelines.
 
@@ -35,7 +36,6 @@ I am a Software Engineer focused on building high-load systems, integrating AI s
 ▸ [ **𝐁𝐞𝐲𝐨𝐧𝐝 𝐓𝐞𝐜𝐡** ]
 
 <kbd>💢 Anime & manga</kbd> · <kbd>🏂 Snowboarding</kbd> · <kbd>📚 Books</kbd> · <kbd>🌿 Gardening</kbd>
-
 
 ## Public Open Source Stats
 
@@ -56,6 +56,8 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 
 ### 🧩 Libraries
 
+Reusable packages and SDKs for backend development, infrastructure, and integrations.
+
 [![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=aiobitcoin&theme=github_dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/aiobitcoin)
 [![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=xkafka&theme=github_dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/xkafka)
 [![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=xpg&theme=github_dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/xpg)
@@ -65,6 +67,8 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 
 ### ⚙️ Tools
 
+Standalone utilities, CLI tools, automation systems, and developer productivity projects.
+
 [![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=pyshella-toolkit&theme=github_dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/pyshella-toolkit)
 [![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=pydrommer&theme=github_dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/pydrommer)
 [![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=rin-bitshares-arbitry-bot&theme=github_dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/rin-bitshares-arbitry-bot)
@@ -72,6 +76,8 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 [![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=arb-bot-rs&theme=github_dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/arb-bot-rs)
 
 ### 💡 Samples
+
+Small projects, demos, and high-level examples exploring specific technologies, architectures, or patterns.
 
 [![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=fastapi-admin-panel&theme=github_dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/fastapi-admin-panel)
 [![Readme Card](https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&repo=rust-simple-chat&theme=github_dark&description_lines_count=3&show_owner=false)](https://github.com/mkbeh/rust-simple-chat)
