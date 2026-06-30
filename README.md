@@ -48,7 +48,7 @@ This only includes my public open source repos:
   <a href="https://github.com/mkbeh/github-readme-stats">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-peach-six-32.vercel.app/api?username=mkbeh&amp;show_icons=true&amp;theme=github_dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-peach-six-32.vercel.app/api?username=mkbeh&amp;show_icons=true&amp;theme=graywhite">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-peach-six-32.vercel.app/api?username=mkbeh&amp;show_icons=true&amp;theme=swift">
       <img alt="mkbeh GitHub stats" src="https://github-readme-stats-peach-six-32.vercel.app/api?username=mkbeh&amp;show_icons=true&amp;theme=default">
     </picture>
   </a>
@@ -57,7 +57,7 @@ This only includes my public open source repos:
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-peach-six-32.vercel.app/api/top-langs/?username=mkbeh&amp;layout=compact&amp;theme=github_dark&amp;hide=html%2Ccss%2Cmakefile%2Cpurebasic%2Cmako%2Cplpgsql%2Cdockerfile&amp;size_weight=0.5&amp;count_weight=0.5">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-peach-six-32.vercel.app/api/top-langs/?username=mkbeh&amp;layout=compact&amp;theme=graywhite&amp;hide=html%2Ccss%2Cmakefile%2Cpurebasic%2Cmako%2Cplpgsql%2Cdockerfile&amp;size_weight=0.5&amp;count_weight=0.5">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-peach-six-32.vercel.app/api/top-langs/?username=mkbeh&amp;layout=compact&amp;theme=swift&amp;hide=html%2Ccss%2Cmakefile%2Cpurebasic%2Cmako%2Cplpgsql%2Cdockerfile&amp;size_weight=0.5&amp;count_weight=0.5">
     <img alt="mkbeh top languages" src="https://github-readme-stats-peach-six-32.vercel.app/api/top-langs/?username=mkbeh&amp;layout=compact&amp;theme=default&amp;hide=html%2Ccss%2Cmakefile%2Cpurebasic%2Cmako%2Cplpgsql%2Cdockerfile&amp;size_weight=0.5&amp;count_weight=0.5">
   </picture>
 </p>
@@ -80,7 +80,7 @@ Reusable packages and SDKs for backend development, infrastructure, and integrat
     />
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&amp;repo=aiobitcoin&amp;theme=graywhite&amp;description_lines_count=3&amp;show_owner=false"
+      srcset="https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&amp;repo=aiobitcoin&amp;theme=swift&amp;description_lines_count=3&amp;show_owner=false"
     />
     <img
       alt="aiobitcoin repository card"
@@ -97,7 +97,7 @@ Reusable packages and SDKs for backend development, infrastructure, and integrat
     />
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&amp;repo=xkafka&amp;theme=graywhite&amp;description_lines_count=3&amp;show_owner=false"
+      srcset="https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&amp;repo=xkafka&amp;theme=swift&amp;description_lines_count=3&amp;show_owner=false"
     />
     <img
       alt="xkafka repository card"
@@ -114,7 +114,7 @@ Reusable packages and SDKs for backend development, infrastructure, and integrat
     />
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&amp;repo=xpg&amp;theme=graywhite&amp;description_lines_count=3&amp;show_owner=false"
+      srcset="https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&amp;repo=xpg&amp;theme=swift&amp;description_lines_count=3&amp;show_owner=false"
     />
     <img
       alt="xpg repository card"
@@ -131,7 +131,7 @@ Reusable packages and SDKs for backend development, infrastructure, and integrat
     />
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&amp;repo=xclick&amp;theme=graywhite&amp;description_lines_count=3&amp;show_owner=false"
+      srcset="https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&amp;repo=xclick&amp;theme=swift&amp;description_lines_count=3&amp;show_owner=false"
     />
     <img
       alt="xclick repository card"
@@ -148,7 +148,7 @@ Reusable packages and SDKs for backend development, infrastructure, and integrat
     />
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&amp;repo=xredis&amp;theme=graywhite&amp;description_lines_count=3&amp;show_owner=false"
+      srcset="https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&amp;repo=xredis&amp;theme=swift&amp;description_lines_count=3&amp;show_owner=false"
     />
     <img
       alt="xredis repository card"
@@ -165,7 +165,7 @@ Reusable packages and SDKs for backend development, infrastructure, and integrat
     />
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&amp;repo=xjwt&amp;theme=graywhite&amp;description_lines_count=3&amp;show_owner=false"
+      srcset="https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&amp;repo=xjwt&amp;theme=swift&amp;description_lines_count=3&amp;show_owner=false"
     />
     <img
       alt="xjwt repository card"
@@ -186,7 +186,7 @@ Standalone utilities, CLI tools, automation systems, and developer productivity 
     />
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&amp;repo=pydrommer&amp;theme=graywhite&amp;description_lines_count=3&amp;show_owner=false"
+      srcset="https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&amp;repo=pydrommer&amp;theme=swift&amp;description_lines_count=3&amp;show_owner=false"
     />
     <img
       alt="pydrommer repository card"
@@ -203,7 +203,7 @@ Standalone utilities, CLI tools, automation systems, and developer productivity 
     />
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&amp;repo=rin-bitshares-arbitry-bot&amp;theme=graywhite&amp;description_lines_count=3&amp;show_owner=false"
+      srcset="https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&amp;repo=rin-bitshares-arbitry-bot&amp;theme=swift&amp;description_lines_count=3&amp;show_owner=false"
     />
     <img
       alt="rin-bitshares-arbitry-bot repository card"
@@ -220,7 +220,7 @@ Standalone utilities, CLI tools, automation systems, and developer productivity 
     />
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&amp;repo=arb-bot-rs&amp;theme=graywhite&amp;description_lines_count=3&amp;show_owner=false"
+      srcset="https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&amp;repo=arb-bot-rs&amp;theme=swift&amp;description_lines_count=3&amp;show_owner=false"
     />
     <img
       alt="arb-bot-rs repository card"
@@ -237,7 +237,7 @@ Standalone utilities, CLI tools, automation systems, and developer productivity 
     />
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&amp;repo=caslex&amp;theme=graywhite&amp;description_lines_count=3&amp;show_owner=false"
+      srcset="https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&amp;repo=caslex&amp;theme=swift&amp;description_lines_count=3&amp;show_owner=false"
     />
     <img
       alt="caslex repository card"
@@ -258,7 +258,7 @@ Small projects, demos, and high-level examples exploring specific technologies, 
     />
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&amp;repo=fastapi-admin-panel&amp;theme=graywhite&amp;description_lines_count=3&amp;show_owner=false"
+      srcset="https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&amp;repo=fastapi-admin-panel&amp;theme=swift&amp;description_lines_count=3&amp;show_owner=false"
     />
     <img
       alt="fastapi-admin-panel repository card"
@@ -275,7 +275,7 @@ Small projects, demos, and high-level examples exploring specific technologies, 
     />
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&amp;repo=rust-simple-chat&amp;theme=graywhite&amp;description_lines_count=3&amp;show_owner=false"
+      srcset="https://github-readme-stats-peach-six-32.vercel.app/api/pin/?username=mkbeh&amp;repo=rust-simple-chat&amp;theme=swift&amp;description_lines_count=3&amp;show_owner=false"
     />
     <img
       alt="rust-simple-chat repository card"
