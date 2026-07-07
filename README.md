@@ -35,7 +35,7 @@ architectures.
 
 ▸ [ **𝐁𝐞𝐲𝐨𝐧𝐝 𝐓𝐞𝐜𝐡** ]
 
-<kbd>💢 Anime & manga</kbd> · <kbd>🏂 Snowboarding</kbd> · <kbd>📚 Books</kbd> · <kbd>🌿 Gardening</kbd>
+<kbd>💢 Anime & manga</kbd> · <kbd>🏂 Snowboarding</kbd> · <kbd>📚 Books</kbd> · <kbd>🍀 Gardening</kbd>
 
 ## Public Open Source Stats
 
