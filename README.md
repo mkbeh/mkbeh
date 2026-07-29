@@ -56,9 +56,9 @@ This only includes my public open source repos:
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-peach-six-32.vercel.app/api/top-langs/?username=mkbeh&amp;layout=compact&amp;theme=github_dark&amp;hide=html%2Ccss%2Cmakefile%2Cpurebasic%2Cmako%2Cplpgsql%2Cdockerfile&amp;size_weight=0.5&amp;count_weight=0.5">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-peach-six-32.vercel.app/api/top-langs/?username=mkbeh&amp;layout=compact&amp;theme=graywhite&amp;hide=html%2Ccss%2Cmakefile%2Cpurebasic%2Cmako%2Cplpgsql%2Cdockerfile&amp;size_weight=0.5&amp;count_weight=0.5">
-    <img alt="mkbeh top languages" src="https://github-readme-stats-peach-six-32.vercel.app/api/top-langs/?username=mkbeh&amp;layout=compact&amp;theme=default&amp;hide=html%2Ccss%2Cmakefile%2Cpurebasic%2Cmako%2Cplpgsql%2Cdockerfile&amp;size_weight=0.5&amp;count_weight=0.5">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-peach-six-32.vercel.app/api/top-langs/?username=mkbeh&amp;layout=compact&amp;theme=github_dark&amp;hide=html%2Ccss%2Cmakefile%2Cpurebasic%2Cmako%2Cplpgsql%2Cdockerfile%2Cjavascript&amp;size_weight=0.5&amp;count_weight=0.5">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-peach-six-32.vercel.app/api/top-langs/?username=mkbeh&amp;layout=compact&amp;theme=graywhite&amp;hide=html%2Ccss%2Cmakefile%2Cpurebasic%2Cmako%2Cplpgsql%2Cdockerfile%2Cjavascript&amp;size_weight=0.5&amp;count_weight=0.5">
+    <img alt="mkbeh top languages" src="https://github-readme-stats-peach-six-32.vercel.app/api/top-langs/?username=mkbeh&amp;layout=compact&amp;theme=default&amp;hide=html%2Ccss%2Cmakefile%2Cpurebasic%2Cmako%2Cplpgsql%2Cdockerfile%2Cjavascript&amp;size_weight=0.5&amp;count_weight=0.5">
   </picture>
 </p>
 
