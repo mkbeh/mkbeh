@@ -1,0 +1,318 @@
+name: Update README stats
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: readme-stats
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      # GitHub stats
+
+      - name: Generate stats — dark
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=github_dark
+          path: profile/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate stats — light
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=graywhite
+          path: profile/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      # Top languages
+
+      - name: Generate top languages — dark
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=github_dark&hide=html%2Ccss%2Cmakefile%2Cpurebasic%2Cmako%2Cplpgsql%2Cdockerfile%2Cjavascript&size_weight=0.5&count_weight=0.5
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate top languages — light
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=graywhite&hide=html%2Ccss%2Cmakefile%2Cpurebasic%2Cmako%2Cplpgsql%2Cdockerfile%2Cjavascript&size_weight=0.5&count_weight=0.5
+          path: profile/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      # Libraries
+
+      - name: Generate aiobitcoin — dark
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=aiobitcoin&theme=github_dark&description_lines_count=3&show_owner=false
+          path: profile/aiobitcoin-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate aiobitcoin — light
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=aiobitcoin&theme=graywhite&description_lines_count=3&show_owner=false
+          path: profile/aiobitcoin-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate xkafka — dark
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=xkafka&theme=github_dark&description_lines_count=3&show_owner=false
+          path: profile/xkafka-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate xkafka — light
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=xkafka&theme=graywhite&description_lines_count=3&show_owner=false
+          path: profile/xkafka-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate xpg — dark
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=xpg&theme=github_dark&description_lines_count=3&show_owner=false
+          path: profile/xpg-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate xpg — light
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=xpg&theme=graywhite&description_lines_count=3&show_owner=false
+          path: profile/xpg-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate xclick — dark
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=xclick&theme=github_dark&description_lines_count=3&show_owner=false
+          path: profile/xclick-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate xclick — light
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=xclick&theme=graywhite&description_lines_count=3&show_owner=false
+          path: profile/xclick-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate xredis — dark
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=xredis&theme=github_dark&description_lines_count=3&show_owner=false
+          path: profile/xredis-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate xredis — light
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=xredis&theme=graywhite&description_lines_count=3&show_owner=false
+          path: profile/xredis-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate xjose — dark
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=xjose&theme=github_dark&description_lines_count=3&show_owner=false
+          path: profile/xjose-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate xjose — light
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=xjose&theme=graywhite&description_lines_count=3&show_owner=false
+          path: profile/xjose-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate pacecache — dark
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=pacecache&theme=github_dark&description_lines_count=3&show_owner=false
+          path: profile/pacecache-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate pacecache — light
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=pacecache&theme=graywhite&description_lines_count=3&show_owner=false
+          path: profile/pacecache-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      # Tools
+
+      - name: Generate pydrommer — dark
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=pydrommer&theme=github_dark&description_lines_count=3&show_owner=false
+          path: profile/pydrommer-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate pydrommer — light
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=pydrommer&theme=graywhite&description_lines_count=3&show_owner=false
+          path: profile/pydrommer-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate rin-bitshares-arbitry-bot — dark
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=rin-bitshares-arbitry-bot&theme=github_dark&description_lines_count=3&show_owner=false
+          path: profile/rin-bitshares-arbitry-bot-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate rin-bitshares-arbitry-bot — light
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=rin-bitshares-arbitry-bot&theme=graywhite&description_lines_count=3&show_owner=false
+          path: profile/rin-bitshares-arbitry-bot-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate arb-bot-rs — dark
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=arb-bot-rs&theme=github_dark&description_lines_count=3&show_owner=false
+          path: profile/arb-bot-rs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate arb-bot-rs — light
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=arb-bot-rs&theme=graywhite&description_lines_count=3&show_owner=false
+          path: profile/arb-bot-rs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate caslex — dark
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=caslex&theme=github_dark&description_lines_count=3&show_owner=false
+          path: profile/caslex-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate caslex — light
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=caslex&theme=graywhite&description_lines_count=3&show_owner=false
+          path: profile/caslex-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      # Samples
+
+      - name: Generate fastapi-admin-panel — dark
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=fastapi-admin-panel&theme=github_dark&description_lines_count=3&show_owner=false
+          path: profile/fastapi-admin-panel-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate fastapi-admin-panel — light
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=fastapi-admin-panel&theme=graywhite&description_lines_count=3&show_owner=false
+          path: profile/fastapi-admin-panel-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate rust-simple-chat — dark
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=rust-simple-chat&theme=github_dark&description_lines_count=3&show_owner=false
+          path: profile/rust-simple-chat-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate rust-simple-chat — light
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=rust-simple-chat&theme=graywhite&description_lines_count=3&show_owner=false
+          path: profile/rust-simple-chat-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      # Commit generated cards
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/*.svg
+
+          if git diff --cached --quiet; then
+            echo "No README stats changes"
+            exit 0
+          fi
+
+          git commit -m "chore: update readme stats"
+          git push
