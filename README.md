@@ -105,6 +105,23 @@ Reusable packages and SDKs for backend development, infrastructure, and integrat
   </picture>
 </a>
 
+<a href="https://github.com/mkbeh/pacecache">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./profile/pacecache-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="./profile/pacecache-light.svg"
+    />
+    <img
+      alt="pacecache repository card"
+      src="./profile/pacecache-light.svg"
+    />
+  </picture>
+</a>
+
 <a href="https://github.com/mkbeh/xkafka">
   <picture>
     <source
@@ -118,6 +135,23 @@ Reusable packages and SDKs for backend development, infrastructure, and integrat
     <img
       alt="xkafka repository card"
       src="./profile/xkafka-light.svg"
+    />
+  </picture>
+</a>
+
+<a href="https://github.com/mkbeh/xredis">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./profile/xredis-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="./profile/xredis-light.svg"
+    />
+    <img
+      alt="xredis repository card"
+      src="./profile/xredis-light.svg"
     />
   </picture>
 </a>
@@ -156,23 +190,6 @@ Reusable packages and SDKs for backend development, infrastructure, and integrat
   </picture>
 </a>
 
-<a href="https://github.com/mkbeh/xredis">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./profile/xredis-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="./profile/xredis-light.svg"
-    />
-    <img
-      alt="xredis repository card"
-      src="./profile/xredis-light.svg"
-    />
-  </picture>
-</a>
-
 <a href="https://github.com/mkbeh/xjose">
   <picture>
     <source
@@ -186,23 +203,6 @@ Reusable packages and SDKs for backend development, infrastructure, and integrat
     <img
       alt="xjose repository card"
       src="./profile/xjose-light.svg"
-    />
-  </picture>
-</a>
-
-<a href="https://github.com/mkbeh/pacecache">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./profile/pacecache-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="./profile/pacecache-light.svg"
-    />
-    <img
-      alt="pacecache repository card"
-      src="./profile/pacecache-light.svg"
     />
   </picture>
 </a>
@@ -319,8 +319,8 @@ Small projects, demos, and high-level examples exploring specific technologies, 
 
 ## Tech
 
-I've worked on far too many technologies to list, but
-here is a shortlist of some of the more still popular ones you might recognize:
+I've worked on far too many technologies to list, but here is a shortlist of some of the more still popular ones you
+might recognize:
 
 <!-- Generated here:
 
