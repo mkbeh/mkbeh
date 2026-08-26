@@ -114,7 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">Lightweight PostgreSQL wrapper for Go, built on pgx with</tspan><tspan dy="1.2em" x="25">OpenTelemetry and Prometheus support.</tspan>
+      <tspan dy="1.2em" x="25">Lightweight PostgreSQL wrapper for Go, built on pgx with</tspan><tspan dy="1.2em" x="25">pool management, clustering, sharding, and observability.</tspan>
     </text>
 
     <g transform="translate(30, 75)">
