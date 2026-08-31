@@ -114,7 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">Lightweight ClickHouse wrapper for Go, built on</tspan><tspan dy="1.2em" x="25">clickhouse-go with migrations, query building, and</tspan><tspan dy="1.2em" x="25">Prometheus support.</tspan>
+      <tspan dy="1.2em" x="25">Lightweight ClickHouse wrapper for Go, built on</tspan><tspan dy="1.2em" x="25">clickhouse-go with pool management, sharding, and</tspan><tspan dy="1.2em" x="25">observability.</tspan>
     </text>
 
     <g transform="translate(30, 75)">
