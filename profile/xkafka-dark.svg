@@ -122,7 +122,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">Lightweight Kafka wrapper for Go, built on franz-go with</tspan><tspan dy="1.2em" x="25">OpenTelemetry and Prometheus support.</tspan>
+      <tspan dy="1.2em" x="25">Lightweight Kafka wrapper for Go, built on franz-go.</tspan><tspan dy="1.2em" x="25">Simplifies batch consumption, Share Groups, transactions,</tspan><tspan dy="1.2em" x="25">exactly-once processing (EOS), and observability.</tspan>
     </text>
 
     <g transform="translate(30, 75)">
